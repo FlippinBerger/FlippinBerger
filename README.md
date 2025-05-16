@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello ✌️
+I enjoy working with Rust, Go, TS, Vue, and React.
+I'm a distance runner 🏃, fantasy nerd 📘, outdoors enjoyer 🏔️, and pet dad 🐱🐶
 
 <!--
 **FlippinBerger/FlippinBerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
